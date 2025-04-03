@@ -38,7 +38,7 @@ The **IMF Gadget API** is a secure and robust Node.js API that allows the Imposs
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/cm-harshpatel/imf-gadget-api.git
+   git clone https://github.com/cm-harshpatel/imf-gadget-api-nodejs.git
    cd imf-gadget-api
    ```
 
