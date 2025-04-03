@@ -148,7 +148,7 @@ The server should now be running on Heroku deployed URL.
 
 📌 **Complete API Reference** is available at:
 
-🔗 [Swagger API Docs](https://imf-gadget-api-d7adf438221f.herokuapp.com/api-docs/) (Right-click and open in a new tab)
+🔗 [Swagger API Docs](https://imf-api-final-c50c8ddf9877.herokuapp.com/api-docs/) (Right-click and open in a new tab)
 
 💡 Use this link to explore all endpoints, request/response formats, and test API calls directly.
 
